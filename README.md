@@ -1,20 +1,39 @@
-# Capstone Analysis
+# Akinjohnson's Data Analysis Portfolio
 
 ## Introduction
+Hello!!!
 
-This is an Excel project on sales analysis of an imaginary store called **Capstone**.
-This project is to analyse and derive insights to answer crucual questions and help the store make data driven decisions.
+Welcome to my Data Analysis Portfolio. I am a data analyst and a problem solver, passionate about using data-driven insights to help businesses make informed decisions. I specialize in analyzing complex data sets and communicating insights in a clear and concise manner. With a background in mathematics and statistics, I have the technical skills necessary to handle any data-related challenge. This website serves as a showcase of my work and skills. Take a look at my portfolio to see examples of my data analysis projects. If you're interested in working together, please don't hesitate to contact me.
 
-**_Disclamer_**: _All datasets and reprts do not represent any company, institution or country, but just a dummy dataset to demonstrate capabilities of Excel._
+## Projects
 
-## Problem Statement
-1. What is the Revenue Trend?
-2. What product category has the highest Revenue?
-3. What Product has the highest Revenue?
-4. Whose sales team made the highest Revenue?
-5. Which state made the highest Revenue?
+### Excel Projects
+#### Project 1: Revenue performance Analysis on Capstone
 
-## Skills Demonstrated
-- Pivot Table
-- Power Query
+Description: Analysed a copany's sales data to identify trends, patterns, and potential areas of improvement.
+Skills Demonstrated: 
+- Data Cleaning and Preprocessiong
+- Use of pivot tables and power query
+- Visualization with Excel
 
+Capstone Dashboard    |    capstone Data
+:--------------------:|:-----------------:
+![](Capstone.jpg)
+
+## Conclusion
+Thank you for visiting my data analysis portfolio!
+
+These project represent a glimpse of my capabilities as a data analyst. i am always eager to take on new challenges and contribute to data-driven decision-making. If you are interested in collaborating or discussing opportunities, please feel free to reach out to me.
+
+
+## Contact
+Linkedin:- 
+
+Email:- akinjohnson06@gmail.com
+
+Tel:- (+234) 812-387-6885
+
+Address:- Mowe-Ofada, Ogun State, Nigeria
+
+
+### **_Lets explore the world together!!!_**

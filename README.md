@@ -8,17 +8,77 @@ Welcome to my Data Analysis Portfolio. I am a data analyst and a problem solver,
 ## Projects
 
 ### Excel Projects
-#### Project 1: Revenue performance Analysis on Capstone
+#### **Project 1: Revenue performance Analysis on Capstone**
 
-Description: Analysed a copany's sales data to identify trends, patterns, and potential areas of improvement.
+Description: Analysed a company's sales data to identify trends, patterns, and potential areas of improvement.
+
 Skills Demonstrated: 
 - Data Cleaning and Preprocessiong
 - Use of pivot tables and power query
 - Visualization with Excel
 
 Capstone Dashboard    |    capstone Data
-:--------------------:|:-----------------:
-![](Capstone.jpg)
+:--------------------:|:----------------------:
+![](Capstone.jpg)     | ![](Capstone_Table.jpg)
+
+#### **Project 2: Revenue performance Analysis on an Accessory store**
+
+Description: Developed am interactive Excel dashboard that provides an in-depth analysis of Revenue data for a Fictional company.
+
+Skills Demonstrated: 
+- Data Cleaning
+- Use of pivot tables and power query
+- Visualization with Excel
+- Data Analysis
+- Filtering
+
+ Accessory Dashboard  |   Accessory Data
+:--------------------:|:----------------------:
+![](Assessory.jpg)    | ![](Assessory_table.jpg)
+
+#### **Project 3: Analysis of Bike Owners**
+
+Description: Connducted a fictional Data analysis on bike owners.
+
+Skills Demonstrated: 
+- Data Cleaning
+- Use of pivot tables and power query
+- Visualization with Excel
+- Data Analysis
+- Filtering
+
+ Bike buyer's Dashboard  |  Bike buyer's Data
+:--------------------:|:----------------------------:
+![](bike_buyers.jpg)    | ![](bike_buyers_Table.jpg)
+
+
+### SQL Projects
+#### **Project 1: COVID-19 Data analysis**
+
+Description: Analysed global COVID-19 data to track the spread and impact of the virus.
+
+Skills Demonstrated:
+- Data Cleaning and integration from PostgreSQL
+- Use of complex query to draft out relevant tables
+- SQL Subqueries
+- SQL Joins
+
+Queries 1      |      Qeries 2
+:-------------:|:---------------:
+![](Covid1.jpg)| ![](Covid2.jpg)
+
+#### **Project 2: Nashville Housing Analysis**
+
+Description: Analysed global COVID-19 data to track the spread and impact of the virus.
+
+Skills Demonstrated:
+- Data Cleaning and integration from PostgreSQL
+- SQL Subqueries
+- SQL Joins
+
+Queries 1          |      Qeries 2
+:-----------------:|:-------------------:
+![](Nashville1.jpg)| ![](Nashville2.jpg)
 
 ## Conclusion
 Thank you for visiting my data analysis portfolio!

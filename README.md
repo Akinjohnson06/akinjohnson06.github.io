@@ -7,6 +7,8 @@ Welcome to my Data Analysis Portfolio. I am a data analyst and a problem solver,
 
 ## Projects
 
+
+
 ### Excel Projects
 #### **Project 1: Revenue performance Analysis on Capstone**
 
@@ -52,6 +54,7 @@ Skills Demonstrated:
 ![](bike_buyers.jpg)    | ![](bike_buyers_Table.jpg)
 
 
+
 ### SQL Projects
 #### **Project 1: COVID-19 Data analysis**
 
@@ -79,6 +82,23 @@ Skills Demonstrated:
 Queries 1          |      Qeries 2
 :-----------------:|:-------------------:
 ![](Nashville1.jpg)| ![](Nashville2.jpg)
+
+
+
+### Visualization Projects
+#### **Project 1: COVID-19 Data analysis Dashboard**
+
+Description: Visualized a global COVID-19 data to track the spread and impact of the virus.
+
+Skills Demonstrated:
+- Data Visualization
+- Dashboard Design and user Experience
+- Interactive Dashboard
+- Geaspatial Analysis
+
+  Covid Dashboard      
+  ![](Covid_Dashboard.jpg)
+
 
 ## Conclusion
 Thank you for visiting my data analysis portfolio!

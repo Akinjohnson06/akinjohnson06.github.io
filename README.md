@@ -20,6 +20,7 @@ Skills Demonstrated:
 - Visualization with Excel
 
 ![capstone Dashboard](capstone.jpg)
+
 Capstone Dashboard    |    capstone Data
 :--------------------:|:----------------------:
 ![](Capstone.jpg)     | ![](Capstone_Table.jpg)

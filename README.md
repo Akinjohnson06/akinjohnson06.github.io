@@ -19,7 +19,7 @@ Skills Demonstrated:
 - Use of pivot tables and power query
 - Visualization with Excel
 
-![capstone Dashboard](capstone.jpg)
+![image1](capstone.jpg)
 
 Capstone Dashboard    |    capstone Data
 :--------------------:|:----------------------:
